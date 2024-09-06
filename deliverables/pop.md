@@ -18,6 +18,8 @@
     * Databases - Databases that hold all user reports and entity descriptions. Is accessible through tools in the back end.
     * Front End - Retrieves and send data to or from the databases through the back end. 
 * Languages and Frameworks
-    * Include a response to: "why are you picking the tech stack that you are?" - TBD
+    * Front End - React JS for development and Node JS for developing environment
+    * CSS Framework - Material UI
+    * Node JS libraries - NPM CLIs
 * Predicted life cycle/methodology
     * Sprint/Scrum - TBD
